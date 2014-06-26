@@ -5,30 +5,30 @@ Wise Wallpapers
 
 ---------------
 
-![A Busy Life Wallpaper](http://omphalosskeptic.github.io/wise-wallpapers/a-busy-life/a-busy-life.png)
+![A Busy Life Wallpaper](https://raw.githubusercontent.com/omphalosskeptic/wise-wallpapers/master/a-busy-life/a-busy-life.png)
 
 ---------------
 
-![Change Your Thinking Wallpaper](http://omphalosskeptic.github.io/wise-wallpapers/change-your-thinking/change-your-thinking.png)
+![Change Your Thinking Wallpaper](https://raw.githubusercontent.com/omphalosskeptic/wise-wallpapers/master/change-your-thinking/change-your-thinking.png)
 
 ---------------
 
-![More to Life Wallpaper](http://omphalosskeptic.github.io/wise-wallpapers/more-to-life/more-to-life.png)
+![More to Life Wallpaper](https://raw.githubusercontent.com/omphalosskeptic/wise-wallpapers/master/more-to-life/more-to-life.png)
 
 ---------------
 
-![Source of Your Joy Wallpaper](http://omphalosskeptic.github.io/wise-wallpapers/source-of-your-joy/source-of-your-joy.png)
+![Source of Your Joy Wallpaper](https://raw.githubusercontent.com/omphalosskeptic/wise-wallpapers/master/source-of-your-joy/source-of-your-joy.png)
 
 ---------------
 
-![The Right Track Wallpaper](http://omphalosskeptic.github.io/wise-wallpapers/the-right-track/the-right-track.png)
+![The Right Track Wallpaper](https://raw.githubusercontent.com/omphalosskeptic/wise-wallpapers/master/the-right-track/the-right-track.png)
 
 ---------------
 
-![We Learn By Doing Wallpaper](http://omphalosskeptic.github.io/wise-wallpapers/we-learn-by-doing/we-learn-by-doing.png)
+![We Learn By Doing Wallpaper](https://raw.githubusercontent.com/omphalosskeptic/wise-wallpapers/master/we-learn-by-doing/we-learn-by-doing.png)
 
 ---------------
 
-![What Is Now Proved Wallpaper](http://omphalosskeptic.github.io/wise-wallpapers/what-is-now-proved/what-is-now-proved.png)
+![What Is Now Proved Wallpaper](https://raw.githubusercontent.com/omphalosskeptic/wise-wallpapers/master/what-is-now-proved/what-is-now-proved.png)
 
 ---------------
