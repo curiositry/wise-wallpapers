@@ -5,6 +5,10 @@ Wise Wallpapers
 
 ---------------
 
+![What we Pretend to Be Wallpaper](https://raw.githubusercontent.com/omphalosskeptic/wise-wallpapers/master/what-we-pretend-to-be/what-we-pretend-to-be.png)
+
+---------------
+
 ![A Busy Life Wallpaper](https://raw.githubusercontent.com/omphalosskeptic/wise-wallpapers/master/a-busy-life/a-busy-life.png)
 
 ---------------
