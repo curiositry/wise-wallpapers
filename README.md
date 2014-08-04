@@ -2,6 +2,11 @@ Wise Wallpapers
 ===============
 
 *A collection of original wallpapers from quotes &amp; proverbs* — **Designed by [@omphalosskeptic](http://twitter.com/omphalosskeptic).**
+
+---------------
+
+![What You See Wallpaper](https://raw.githubusercontent.com/omphalosskeptic/wise-wallpapers/master/what-you-see/what-you-see.png)
+
 ---------------
 
 ![As Happy Wallaper](https://raw.githubusercontent.com/omphalosskeptic/wise-wallpapers/master/as-happy/as-happy.png)
